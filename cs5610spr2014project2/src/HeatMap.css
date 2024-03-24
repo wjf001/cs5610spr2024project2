@@ -1,0 +1,35 @@
+.cell{
+    width:30px;
+    height:30px;
+    border: 3px solid lightgray;
+    margin: 3px;
+}
+
+.cell.alive.Red { 
+    background-color: red; 
+}
+
+.cell.alive.Yellow {
+     background-color: yellow; 
+    }
+
+.cell.alive.Green { 
+    background-color: green; 
+}
+
+.cell.alive.Blue { 
+    background-color: blue; 
+}
+
+.cell.alive.Navy{ 
+    background-color: navy; 
+}
+
+.cell.dead { 
+    background-color: white;
+}
+
+.cell.alive { 
+    background-color: black;
+}
+
